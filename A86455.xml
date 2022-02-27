@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two speeches delivered by the Earl of Holland, and Mr. Io: Pym, Esquire. Concerning a petition to His Majestie for peace. Spoken in Guild-hall, on Thursday the 10. of Novemb. to the Lord Major and Aldermen, with the rest of the inhabitant of the city; being commanded by both Houses of Parliament thereunto.</title>
+            <author>Holland, Henry Rich, Earl of, 1590-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86455</idno>
+            <idno type="STC">Wing H2422</idno>
+            <idno type="STC">Thomason E126_48</idno>
+            <idno type="STC">ESTC R19984</idno>
+            <idno type="EEBO-CITATION">99860798</idno>
+            <idno type="PROQUEST">99860798</idno>
+            <idno type="VID">112923</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112923)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E126[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two speeches delivered by the Earl of Holland, and Mr. Io: Pym, Esquire. Concerning a petition to His Majestie for peace. Spoken in Guild-hall, on Thursday the 10. of Novemb. to the Lord Major and Aldermen, with the rest of the inhabitant of the city; being commanded by both Houses of Parliament thereunto.</title>
+                  <author>Holland, Henry Rich, Earl of, 1590-1649.</author>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. F. for Peter Cole, and are to be sold at his shop at the sign of the Glove and Lyon, neer the Royall-Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "novemb: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112923:1"/>
+            <pb facs="tcp:112923:1" rendition="simple:additions"/>
+            <p>
+               <hi>TWO</hi> SPEECHES <hi>Delivered by</hi> The Earl of Holland, <hi>AND</hi> Mr. Io: Pym, Eſquire. <hi>Concerning a Petition to His Majestie for PEACE.</hi>
+            </p>
+            <p>
+               <hi>Spoken in</hi> GVILD-HALL, On Thurſday the 10. of Novemb. To the Lord Major and Aldermen, with the reſt of the Inhabitant of the City; being commanded by both Houſes of <hi>PARLIAMENT</hi> thereunto.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. E.</hi> for <hi>Peter Cole,</hi> and are to be ſold at his ſhop at the ſign of the Glove and Lyon, neer th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Royall-Ex<gap reason="illegible" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:112923:2"/>
+            <pb facs="tcp:112923:2"/>
+            <head>The Earl of <hi>Holland</hi> his Speech.</head>
+            <p>MY Lord Maior, and you Gentlemen and Inhabi<g ref="char:EOLhyphen"/>tants of the City, we are commanded by both Houſes of Parliament to come hither, and to deliver to you that are their great Aſſiſtant, an account, and know<g ref="char:EOLhyphen"/>ledge of a Reſolution they have taken to ſend a Petition to His Majeſty, grounded upon theſe Reaſons; The firſt is, That there is a duty towards God to ſeek Peace, indeed to ſeek it with all men, therefore properly and naturally with the King: this they are directed to do, if Peace flyes from us, to purſue it, to follow it, this is their holy duty. They have likewiſe taken into their thoughts too, ſeri<g ref="char:EOLhyphen"/>ouſly, that that may concern the ſafety of the Kings per<g ref="char:EOLhyphen"/>ſon, being ingaged in this laſt Battell, through his own re<g ref="char:EOLhyphen"/>ſolutions and adventures, to put his perſon in ſome haz<g ref="char:EOLhyphen"/>zard; they have a tenderneſſe of that, and amongſt other conſiderations, it is that that prevails with them, to deſire that He may not be in danger (if it be poſſible) by a fur<g ref="char:EOLhyphen"/>ther purſuance of this action, that in all probability muſt come to a ſecond blow, and that ſpeedily, if there be not ſome other way taken for an Accommodation. There is another reaſon that they are likewiſe perſwaded the more willingly thus to Petition, and to deſire Peace, that is, for the ſaving and recovering the Kingdom of <hi>Ireland,</hi> in the diſtreſſe that you have long ſeen it; they know the impoſ<g ref="char:EOLhyphen"/>ſibility for this Kingdom to relieve that, if we continue in theſe diſtractions, and in theſe confuſions, within our ſelves; and therefore believing nothing can contribute, or conduce towards the recovering of that Kingdom, and the delivering of thoſe perſons indeed from danger that you have ſent thither, they believe nothing can poſſibly do it, but our quietnes &amp; our peace here, if that Kingdom
+<pb facs="tcp:112923:3"/>ſhould fall into other hands, ſuch hands as it may likely and probably do, what inconvenience, what danger muſt fall upon this Kingdom, from the power, and the neigh<g ref="char:EOLhyphen"/>bourhood of that, you all muſt imagine. They do like<g ref="char:EOLhyphen"/>wiſe conſider this, that in the diſtractions amongſt our ſelves, what advantages foreign States may take, when our own hands are we<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kned, and a deſolation upon the Kingdom, univerſally through the whole Kingdom, thoſe that do maligne our Religion, and their conſciences direct them to deſtroy it, as well as their ambitions, to make a Conqueſt of the Nation, how open wee ſhall be likewiſe to them, for any prejudice, or any dan<g ref="char:EOLhyphen"/>ger may fall upon us: Beſides, they have a conſideration of the whole Kingdom, that have ſo long continued in peace, in the bleſſings of peace, ſo long in the beds of peace, and in the armes of peace, (for this hundred yeares there have beene no civill diviſions, nor diſtractions with<g ref="char:EOLhyphen"/>in this Kingdom) and thoſe abundances that peace hath procured, and thoſe happineſses likely to be devoured in any State by the ſword of Warre, as in every part of the Kingdom already, you ſee how it begins to deſtroy, with what height, with what power, with what inſolencie; theſe are conſiderations, that have made them beleeve, that as it is a duty to God, it is that which they owe like<g ref="char:EOLhyphen"/>wiſe to the King, it is that that they owe to the Kingdom in which they have been born and bred; it is likewiſe a diſcharge of their own conſciences that every body may ſee, that it is not their faults, if Peace be not procur'd; but though they are thus reſolved, and upon theſe Reaſons to offer a Petition, and to ſeek Peace by all the wayes that is poſſible, yet they have commanded mee to let you know, that as they deſire Peace, they will prepare for War, they have given directions that this day my Lord Generall ſhall carry out his Army out of the City, there is a R<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>devouz appointed, they ſhall there draw
+<pb facs="tcp:112923:3"/>themſelves together in ſuch a condition, as we are very confident and very hopefull we ſhall be able to defend it; we are likewiſe reſolved, and ſo I am commanded to de<g ref="char:EOLhyphen"/>liver to you, that as we have long kept together with re<g ref="char:EOLhyphen"/>ſolutions to defend our Priviledges, our Religion, our Liberties, and Lawes; ſo we will continue in the ſame re<g ref="char:EOLhyphen"/>ſolution, and the ſame purpoſe to do ſo, nothing ſhall de<g ref="char:EOLhyphen"/>ter us from it; if we can find peace from his Majeſty upon theſe conditions, that Religion, and Lawes, and our Li<g ref="char:EOLhyphen"/>berties, and all, may be happily ſecur'd to the Kingdom, and to you all, we ſhall be glad of it, and it will be a bleſ<g ref="char:EOLhyphen"/>ſing to us, and to you all; if it cannot be done, we are re<g ref="char:EOLhyphen"/>ſolved, (and ſo I am commanded to let you know) no<g ref="char:EOLhyphen"/>thing ſhall diſcourage us, neither danger, nor power, nor any thing; but if we cannot maintaine our Religion, our Lawes, and our Liberties, we will perriſh and die for it.</p>
+         </div>
+         <div type="speech">
+            <head>Maſter <hi>John Pym</hi> his Speech.</head>
+            <p>MY Lord Major, and you Gentlemen of this famous City of <hi>London,</hi> and that will make it much more famous by theſe noble affections, which you have ſhewed ſtill to the publicke good, and by yeelding ſo much Aide, and ſo much encouragement as you have done to the P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>liament in maintaining it<g ref="char:punc">▪</g> there is little to be added to that that was ſaid by this noble Lord, who hath repreſented to you, the ſence of both Houſes, the reaſons, and motives upon which they did deſire peace, motives indeed that have wrought with us from the beginning of this Warre to this time, for we ſhould never have ſtep'd one ſtep to<g ref="char:EOLhyphen"/>wards Warre if we might have had, or hoped for ſuch a peace as might have ſecured Religion and Liberty, and the publicke good of the Kingdome; but truely ill counſell did exclude us from ſuch hope; we now conceive that the
+<pb facs="tcp:112923:4"/>King having ſeene the courage of his Subjects, having ſeen the danger of his owne Perſon, ſo much blood ſhed about him, that he will be more tractable to good conditions of Peace, then he would have beene before, and that is the reaſon, why we do thinke fit to try him once more after this battle that hath beene lately fought, before it come to another battle againe; It's true, that this may ſeeme a reſolution contrary to that that was open'd to you within theſe few dayes, but you will conceive, that all great coun<g ref="char:EOLhyphen"/>ſells they are ſubject to alter their reſolutions, according as matters alter, and as the apprehenſions of matters alter, for if things appeare more clearer, and hopefull to them, at one time, then at another, it is no diſhonour for them to varie according to their appearance, Iudgments, and beſt reaſons, ſo long as they do it with affections to the beſt purpoſe, which you may reſt aſsur'd the Parliament hath done; and though we deſire Peace very much, yet a peace to betray Religion, and to betray our Liberties we ſhall alwayes eſteeme worſe then Warre; Therefore wee ſhall put it to a very quicke iſſue, if the KING receive the Petition, to make ſuch Propoſitions, as you may ſee, whether you ſhall bee ſecur'd in your Religion, in your Religion with a hope of Reformation, ſuch a Reformation as may maintain the power of Religi<g ref="char:EOLhyphen"/>on, and the purity of Religion, aſwell as the name of Re<g ref="char:EOLhyphen"/>ligion; for we ſhall not be contented with the name, without a Reformation, that ſhall maintain the power of it. And we ſhall purſue the maintenance of our Liber<g ref="char:EOLhyphen"/>ties, Liberties that may not onely be the Laws and Statutes, but Liberties that may be in practice, and in execution; and to take ſuch courſe, that you may have the effects of them in truth: For to have printed Liberties, and not to have Liberties in truth, and realities, is but to mock the Kingdom; and I hope we ſhall take care for that in the ſecond place. And we ſhall take care to maintain the Di<g ref="char:EOLhyphen"/>gnity,
+<pb facs="tcp:112923:4"/>and the Honour of Parliament, for that is that that will be a laſting ſecurity to you in your Liberty and Reli<g ref="char:EOLhyphen"/>gion. Wee ſhall take care in the fourth place to Anſwer the affections of the City of London, That we will not conſent to any thing that ſhall be prejudiciall to them; We will preſerve them in the higheſt degree of Honour, that ever this City of <hi>London</hi> was in; and truly, it is now in the higheſt degree of Honour that ever it was; for you have carryed your ſelues in ſuch a regard to the Publique, that never any of your Predeceſſors did ſo before; and therefore we ſhall in a Peace be as carefull of you, as of our ſelves; and you may be aſſur'd of this, that if wee have not this Peace, our Lives, our Pains, our Eſtate<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, they ſhall all joyn with you, in maintaining that with the Sword, which we ſhall not get in an humble way by Pe<g ref="char:EOLhyphen"/>tition; and this we ſhall bring to a quick iſſue. Therefore I ſhall onely move you (as I am commanded to do from the Parliament) that you will not think there is any faint<g ref="char:EOLhyphen"/>ing on our parts, that we are more cold, and leſſe affectio<g ref="char:EOLhyphen"/>nate to any of theſe good ends, then heretofore we have been; but that we w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld compaſſe them with more <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecure advantage: For if you can get theſe by Peace, you will have great advantages by it; you will hinder foreign in<g ref="char:EOLhyphen"/>vaſions from beyond the Seas, you will quickly be able to maſter the Rebels in <hi>Ireland;</hi> you will quickly be able to ſuppreſſe the Papiſts that begin to riſe in <hi>England;</hi> that you ſhall have a perpetuall ſecurity, that they ſhall never be able to hurt you more; Therefore, if we can have ſuch a Peace, without further hazard and blood-ſhedding, wee ſhall praiſe God, and eſteem it as a great bleſſing; but if not, pray lay not down the ſame ſpirits; for we have the ſame hearts, and multitudes of ſpirits, and the Kingdom inclinable to us; where the King has paſs'd, many to ſave their eſtates and lives, have ſhew'd themſelves but men; for it was not to be thought that ſingle Countries ſhould
+<pb facs="tcp:112923:5"/>maintaine themſelves againſt an Armie, but they have hearts as they had before, and no doubt but they will joyne with us, with more alacrity, when they ſee we have deſired Peace, by all the wayes we could, and cannot have it; we ſhall by this meanes ſatisfie our owne con<g ref="char:EOLhyphen"/>ſciences, we ſhall ſatisfie many Members of Parliament, that deſired it might be put on this way, we ſhall ſatisfie many of the Kingdome too, that have held themſelves indifferent, but when they ſee there is no hope of Peace, in ſuch a way, without blood, certainely they will ſtand to us for Religion, and Liberty, which muſt be deſtroyed if we cannot ſecure them without Warre: Therefore I ſhall commend to you, that you would not let fall any part of your contributions, for it is that, that muſt main<g ref="char:EOLhyphen"/>taine the Army, and entertaine no ill apprehenſions of the Parliament, but goe on ſo as you have done, and I hope it will be ſuch an end as God may have all the glory, and you all comfort.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112923:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
